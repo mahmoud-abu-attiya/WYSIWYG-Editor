@@ -142,12 +142,6 @@ const saveContent = async (content) => {
 - **Ctrl+I** (or Cmd+I): Toggle italic formatting  
 - **Ctrl+U** (or Cmd+U): Toggle underline formatting
 
-## Browser Support
-
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
 
 ## Implementation Details
 
